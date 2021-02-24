@@ -1,0 +1,28 @@
+.Container {
+    margin-top: 10%;
+}
+
+.PageTitle {
+    text-align: center;
+    position: relative;
+    /* margin-top: 50px; */
+    border-radius: 2em;
+    font-family: 'Marcellus SC', sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    color: #e31c3d;
+}
+
+.FilterContainer {
+    /* margin-left: 45%; */
+    position: absolute;
+    justify-content: center;
+    /* display: flex; */
+    margin-bottom: 2%;
+}
+
+h1{
+    text-emphasis: none;
+    text-align: center;
+}
+    

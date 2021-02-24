@@ -1,0 +1,101 @@
+{
+    "products" : [
+    {
+      "name": "deconstructed dress",
+      "description": "a deconstructed lacy black dress, 100% cotton and made to order.",
+      "price": 165,
+      "image": "https://images.unsplash.com/photo-1582509042236-c522a937661e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
+      "tag:":"dresses",
+      "id": 1
+    },
+    {
+        "name": "midnight jacket",
+        "description": "made to measurement and consists of a velvet lining and metal buttons.",
+        "price": 335,
+        "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+        "tag:":"tops",
+        "id": 2
+    },
+    {
+        "name": "death breeches",
+        "description": "hand painted denim in a light blue wash.",
+        "price": 195,
+        "image": "https://images.unsplash.com/photo-1556940114-7e0900e48a86?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1001&q=80",
+        "tag:":"bottoms",
+        "id": 3
+    },
+    {
+        "name": "assorted pin grab",
+        "description": "all stainless steel, grab bag based and limited time availibility.",
+        "price": 35,
+        "image": "https://images.unsplash.com/photo-1574097639425-d1dce599e9f3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+        "tag:":"accessories",
+        "id": 4
+    },
+    {
+        "name": "dead inside cap",
+        "description": "hand embroidered design, with adjustable sizing.",
+        "price": 50,
+        "image": "https://images.unsplash.com/photo-1506453434641-e720b33ea0bb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+        "tag:":"accessories",
+        "id": 5
+    },
+    {
+        "name": "everyday tee",
+        "description": "relaxed boxy cut, perfect for your everyday wear.",
+        "price": 85,
+        "image": "https://images.unsplash.com/photo-1587936609035-64295cf9d2af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
+        "tag:":"tops",
+        "id": 6
+    },
+    {
+        "name": "blood oxford shirt",
+        "description": "reverse oxford weave. made of 100% cotton, complete with pleated collars.",
+        "price": 185,
+        "image": "https://images.unsplash.com/photo-1527105199669-2ba6968dc271?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
+        "tag:":"tops",
+        "id": 7
+    },
+    {
+        "name": "tear drop ring",
+        "description": "made with 18K white gold, and set with a 22K diamond.",
+        "price": 990,
+        "image": "https://images.unsplash.com/photo-1561995734-ef4b62bb6586?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
+        "tag:":"accessories",
+        "id": 8
+    },
+    {
+        "name": "dagger slit dress",
+        "description": "made to measure, satin and velvet",
+        "price": 200,
+        "image": "https://images.unsplash.com/photo-1524504259109-ddd837233694?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1728&q=80",
+        "tag:":"dresses",
+        "id": 9
+    },
+    {
+        "name": "midriff dress",
+        "description": "gold plated rings and invisible mesh cutout, made to measure",
+        "price": 265,
+        "image": "https://images.unsplash.com/photo-1586216912700-d739f523098f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
+        "tag:":"dresses",
+        "id": 10
+    },
+    {
+        "name": "judgement chains",
+        "description": "sterling silver chains, comes in packs of 1, 3, and 5.",
+        "price": 95,
+        "image": "https://images.unsplash.com/photo-1579362093956-a743707ecac1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+        "tag:":"accessories",
+        "id": 11
+    },
+    {
+        "name": "belt skirt",
+        "description": "comes with genuine handcrafted leather belt, and a slit skirt.",
+        "price": 200,
+        "image": "https://images.unsplash.com/photo-1600983639112-f04b6270c7b4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
+        "tag:":"bottoms",
+        "id": 12
+    }
+  ]
+
+}

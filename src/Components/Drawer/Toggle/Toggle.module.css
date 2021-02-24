@@ -1,0 +1,35 @@
+.DrawerToggle {
+  width: 40px;
+  height: 100%;
+  display: flex;
+  flex-flow: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 0;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+.DrawerToggle div {
+  width: 90%;
+  height: 4px;
+  background-color: white;
+}
+
+@media (min-width: 500px) {
+  .DrawerToggle {
+      display: none;
+  }
+}
+
+.change .line--1{
+  transform: rotateZ(-405deg) translate(-10px, 9px);
+}
+
+.change .line--2{
+  opacity: 0;
+}
+
+.change .line--3{
+  transform: rotateZ(405deg) translate(-10px,-9px);
+}
